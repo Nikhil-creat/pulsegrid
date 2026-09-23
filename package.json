@@ -1,0 +1,30 @@
+{
+  "name": "pulsegrid",
+  "version": "1.0.0",
+  "description": "AI-driven IoT threat detection mesh — a hand-written neural net trained live in the browser, visualized in 3D. No backend, no build step.",
+  "private": true,
+  "license": "MIT",
+  "author": "Nikhil Chary Sriramoju <sriramojunikhil66@gmail.com> (https://github.com/Nikhil-creat)",
+  "homepage": "https://nikhil-creat.github.io/pulsegrid/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikhil-creat/pulsegrid.git"
+  },
+  "keywords": [
+    "iot",
+    "machine-learning",
+    "neural-network",
+    "cybersecurity",
+    "anomaly-detection",
+    "threejs",
+    "chartjs",
+    "javascript"
+  ],
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

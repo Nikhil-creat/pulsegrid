@@ -5,7 +5,17 @@
 ![No backend](https://img.shields.io/badge/backend-none-7C5CFC.svg)
 ![Vanilla JS](https://img.shields.io/badge/core-vanilla%20JS-E8A33D.svg)
 
-**Designed & Developed by Nikhil Chary Sriramoju**
+**Designed & Developed by**
+# NIKHIL CHARY SRIRAMOJU
+BTech CSE (Final Year)
+
+- GitHub: [Nikhil-creat](https://github.com/Nikhil-creat)
+- LinkedIn: [nikhil-chary-sriramoju](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a)
+- Email: sriramojunikhil66@gmail.com
+- Instagram: [@nikhil__sriramoju](https://www.instagram.com/nikhil__sriramoju)
+- Facebook: [Profile](https://www.facebook.com/profile.php?id=100079201124141)
+
+
 
 An IoT device mesh, simulated live in the browser and watched by a small neural network that's trained from scratch, in the browser too — no server, no ML library, rendered as an interactive 3D graph.
 
@@ -140,4 +150,4 @@ Then do step 2 above. The first push will trigger the workflow automatically; ch
 - Persist the full threat log (not just weights) to `localStorage`.
 
 ---
-**Nikhil Chary Sriramoju** — [GitHub](https://github.com/Nikhil-creat) · [LinkedIn](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a) · sriramojunikhil66@gmail.com
+
